@@ -29,4 +29,4 @@
         <cfqueryparam value="#form.password#" cfsqltype="CF_SQL_VARCHAR">
     )
 </cfquery>
-<cflocation url="index.cfm?action=userList">
+<cflocation url="menu.cfm?action=userList">

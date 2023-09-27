@@ -58,3 +58,4 @@
 </form>
 
 
+<h2><a href="menu.cfm?action=new_error">Меню</a></h2>

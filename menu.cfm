@@ -25,6 +25,8 @@
     <li><a href="errorList.cfm?action=error_list">Список ошибок</a></li>
     <li><a href="newUser.cfm?action=new_user">Создание нового пользователя</a></li>
     <li><a href="userList.cfm?action=user_list">Список пользователей</a></li>
+    <li><a href="editingUser.cfm?action=editingUser">Редактирование пользователя</a></li>
+    <li><a href="editingError.cfm?action=editingError">Редактирование ошибки</a></li>
     <li><a href="index.cfm?action=logout">Выход</a></li>
 </ul>
 
